@@ -2,8 +2,8 @@
   "db": {
     "host": "localhost",
     "user": "root",
-    "password": "Pr@k@sh9347",
-    "database": "daily_schedule_and_driver_data"
+    "password": "",
+    "database": ""
     },
     "logo_path": "LOGO.png",
   
